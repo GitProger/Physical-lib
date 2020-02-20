@@ -2,7 +2,7 @@
 #define __PHYS_HPP_INC
 #include "exc.hpp"
 #include <cmath>
-#define  PLUS_MINUS (char)177 // in 1251 code page
+#define PLUS_MINUS "+-"
 namespace physics {
 
 struct physicalNumber {
